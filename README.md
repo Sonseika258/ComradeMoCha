@@ -32,6 +32,5 @@ Add file👉creat new file,nameyourfile空白处命名文件夹，随后输入�
 
 
 
-
-墨茶一路走好
+墨茶同志，一路走好
 ======================
