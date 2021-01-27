@@ -17,7 +17,7 @@ Add file👉creat new file,nameyourfile空白处命名文件夹，随后输入�
 2.上传材料 
 ---------------
 进入新文件夹 点击Add file👉upload new file 上传所需文件
-下拉commit changes 点击执行操作
+下拉Commit changes 点击执行操作
 
 
 
@@ -25,7 +25,7 @@ Add file👉creat new file,nameyourfile空白处命名文件夹，随后输入�
 
 3.删除文件
 ---------------
-点击想删除的文件，进入后点击右下角删除键 随后commit changes 
+点击想删除的文件，进入后点击右下角删除键 随后Commit changes 
 
 
 
