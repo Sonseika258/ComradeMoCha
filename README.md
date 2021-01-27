@@ -6,7 +6,8 @@ Add file👉creat new file,nameyourfile空白处命名文件夹，随后输入�
 
 例：ComradeMoCha/A👉ComradeMoCha/A/ 即命名完成 
 随后命名空文件 
-例：ComradeMoCha/A👉ComradeMoCha/A/1 即命名了空文件1
+例：ComradeMoCha/A/
+👉ComradeMoCha/A/1 即命名了空文件1
 点击下面COMMIT NEW FILE 即建立文件夹成功
 
 
